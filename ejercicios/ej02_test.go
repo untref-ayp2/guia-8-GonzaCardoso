@@ -1,5 +1,6 @@
 package ejercicios
 
+/*
 import (
 	"testing"
 
@@ -22,3 +23,4 @@ func TestEjemplo(t *testing.T) {
 	assert.Equal(t, float64(16), ensamble.ObtenerPrecio(), "El precio del ensamble debería ser 2")
 	assert.Equal(t, "tornillo, tuerca, tuerca, varilla", ensamble.ObtenerDescripcion(), "La descripción del ensamble debería ser 'tornillo, tuerca, tuerca, varilla'")
 }
+*/

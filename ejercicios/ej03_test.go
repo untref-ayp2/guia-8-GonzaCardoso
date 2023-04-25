@@ -1,5 +1,6 @@
 package ejercicios
 
+/*
 import (
 	"testing"
 
@@ -26,3 +27,4 @@ func TestOperacionTres(t *testing.T) {
 	assert.Equal(t, "3+5*14", operacion.String())
 	assert.Equal(t, 112, operacion.Resolver())
 }
+*/

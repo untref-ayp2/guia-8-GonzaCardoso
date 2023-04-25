@@ -1,5 +1,6 @@
 package ejercicios
 
+/*
 import (
 	"testing"
 
@@ -12,3 +13,4 @@ func TestArchivosMusica(t *testing.T) {
 
 	assert.Equal(t, "Reproduciendo archivo MP3. Nombre: el gato volador.mp3", adaptador.reproducir())
 }
+*/

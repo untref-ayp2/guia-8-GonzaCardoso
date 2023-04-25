@@ -52,7 +52,7 @@ func TestNextPosicionesPares(t *testing.T) {
 	value, _ = iterator.Next()
 	assert.Equal(t, 7, value)
 
-	assert.False(t, iterator.HasNext(), "El iterador no debería tener elementos")
+	assert.False(t, iterator.HasNext(), "el iterador no debería tener mas elementos")
 }
 
 func TestErrorsWhenEmptiedPosicionesPares(t *testing.T) {
